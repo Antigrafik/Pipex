@@ -1,5 +1,3 @@
-Pipex
-
 Este programa simula el uso del pipe en Shell, introduciendo, en este caso solo dos comandos.
 
 Ejemplo en una terminal shell
